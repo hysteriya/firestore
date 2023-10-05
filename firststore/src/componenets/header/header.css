@@ -1,0 +1,16 @@
+header{
+    min-height: 100vh;
+    background: linear-gradient(101.59deg, #181623 0.73%, #17245B 99.5%);
+    background-size:cover; 
+}
+
+header .wrapper{
+    position: relative;
+    height: 100vh;
+}
+
+header .text{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

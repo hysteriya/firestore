@@ -1,0 +1,24 @@
+:root {
+    --background: linear-gradient(101.59deg, #181623 0.73%, #17245B 99.5%);
+    --dark-color: #181e1e;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+    font-family: "Poppins";
+}
+
+.wrapper{
+    max-width: 1024 px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
