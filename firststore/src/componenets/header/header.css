@@ -14,3 +14,38 @@ header .text{
     bottom: 0;
     right: 0;
 }
+
+header .header-p{
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+    text-align: left;
+}
+
+header h1{
+    font-family: Raleway;
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 74px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+header .getStarted{
+    width: 276px;
+    height: 162px;
+    padding: 16px, 30px;
+    border-radius: 500px;
+    gap: 10px;
+    background: #0030FF;
+    color: white;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
